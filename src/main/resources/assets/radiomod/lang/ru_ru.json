@@ -1,0 +1,11 @@
+{
+  "block.radiomod.radio": "Радио",
+  "itemGroup.radiomod": "Радио мод",
+  "gui.radiomod.title": "Радио",
+  "gui.radiomod.no_signal": "Нет сигнала",
+  "gui.radiomod.play": "Играть",
+  "gui.radiomod.stop": "Стоп",
+  "gui.radiomod.repeat_on": "Повтор: ВКЛ",
+  "gui.radiomod.repeat_off": "Повтор: ВЫКЛ",
+  "gui.radiomod.volume": "Громкость: %s"
+}

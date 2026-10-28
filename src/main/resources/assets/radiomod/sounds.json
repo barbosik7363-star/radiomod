@@ -1,0 +1,5 @@
+{
+  "napoleon":  { "sounds": [ { "name": "radiomod:songs/napoleon",  "stream": true, "attenuation_distance": 10 } ] },
+  "bomboclat": { "sounds": [ { "name": "radiomod:songs/bomboclat", "stream": true, "attenuation_distance": 10 } ] },
+  "track3":    { "sounds": [ { "name": "radiomod:songs/track3",    "stream": true, "attenuation_distance": 10 } ] }
+}

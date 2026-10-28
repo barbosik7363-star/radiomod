@@ -1,0 +1,11 @@
+{
+  "block.radiomod.radio": "Radio",
+  "itemGroup.radiomod": "Radio Mod",
+  "gui.radiomod.title": "Radio",
+  "gui.radiomod.no_signal": "No signal",
+  "gui.radiomod.play": "Play",
+  "gui.radiomod.stop": "Stop",
+  "gui.radiomod.repeat_on": "Repeat: ON",
+  "gui.radiomod.repeat_off": "Repeat: OFF",
+  "gui.radiomod.volume": "Volume: %s"
+}
